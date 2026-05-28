@@ -1,9 +1,9 @@
-idade = 20
+idade = 17
 
-if idade>=18:
-    print("maior de idade")
+if idade<=18:
+    print("acesso negado")
 
-senha = 45456
+senha = 45576
 
 if senha ==45576 :
     print("Acesso liberado")
