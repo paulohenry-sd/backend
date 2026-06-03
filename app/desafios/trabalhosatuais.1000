@@ -1,0 +1,80 @@
+
+Questão 4 
+
+Crie a lista: 
+
+["Python", "Java", "C#", "PHP"] 
+
+Substitua "PHP" por "JavaScript". 
+
+Exiba a lista após a alteração. 
+
+ 
+
+Questão 5 
+
+Crie uma lista contendo: 
+
+[5, 10, 15, 20, 25] 
+
+Remova o número 15 utilizando o método adequado. 
+
+Exiba a lista final. 
+
+Questão 6 
+
+Crie uma lista contendo os números: 
+
+[1, 2, 3, 4, 5] 
+
+Utilize um laço for para exibir cada elemento da lista. 
+
+ 
+
+Questão 7 
+
+Crie uma lista contendo: 
+
+["Ana", "Carlos", "Maria", "João"] 
+
+Verifique se o nome "Maria" existe na lista. 
+
+Caso exista, exiba: 
+
+Nome encontrado! 
+
+ 
+
+Questão 8 
+
+Crie uma lista com os números: 
+
+[50, 10, 80, 20, 40] 
+
+Ordene a lista em ordem crescente. 
+
+Exiba o resultado. 
+
+ 
+
+Questão 9 
+
+Crie uma lista com os números: 
+
+[100, 200, 300, 400, 500] 
+
+Mostre apenas os três primeiros elementos utilizando fatiamento. 
+
+ 
+
+Questão 10 
+
+Solicite ao usuário que digite 5 números. 
+
+Armazene esses números em uma lista. 
+
+Ao final, exiba: 
+
+A lista completa.  
+
+A soma dos números digitados.
