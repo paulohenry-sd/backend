@@ -1,80 +1,69 @@
+Crie uma classe Pessoa 
 
-Questão 4 
-
-Crie a lista: 
-
-["Python", "Java", "C#", "PHP"] 
-
-Substitua "PHP" por "JavaScript". 
-
-Exiba a lista após a alteração. 
+Enunciado: 
+Crie uma classe Pessoa com nome e idade. Depois crie um objeto e imprima seus dados. 
 
  
 
-Questão 5 
+Classe Aluno com método estudar 
 
-Crie uma lista contendo: 
-
-[5, 10, 15, 20, 25] 
-
-Remova o número 15 utilizando o método adequado. 
-
-Exiba a lista final. 
-
-Questão 6 
-
-Crie uma lista contendo os números: 
-
-[1, 2, 3, 4, 5] 
-
-Utilize um laço for para exibir cada elemento da lista. 
+Enunciado: 
+Crie uma classe Aluno que tenha nome e um método estudar() que imprime uma mensagem. 
 
  
 
-Questão 7 
+ 
 
-Crie uma lista contendo: 
+Contador simples 
 
-["Ana", "Carlos", "Maria", "João"] 
-
-Verifique se o nome "Maria" existe na lista. 
-
-Caso exista, exiba: 
-
-Nome encontrado! 
+Enunciado: 
+Crie uma classe que represente um contador com um valor que começa em 0. Crie métodos para aumentar e diminuir. 
 
  
 
-Questão 8 
+ 
 
-Crie uma lista com os números: 
+Classe Produto e desconto 
 
-[50, 10, 80, 20, 40] 
-
-Ordene a lista em ordem crescente. 
-
-Exiba o resultado. 
+Enunciado: 
+Crie classe Produto com preço e um método para aplicar desconto. 
 
  
 
-Questão 9 
+ 
 
-Crie uma lista com os números: 
+Classe Livro com status 
 
-[100, 200, 300, 400, 500] 
-
-Mostre apenas os três primeiros elementos utilizando fatiamento. 
+Enunciado: 
+Crie classe Livro com título e um atributo que diz se está disponível. 
 
  
 
-Questão 10 
+Classe Veiculo e subclasses 
 
-Solicite ao usuário que digite 5 números. 
+Enunciado: 
+Crie duas subclasses Carro e Moto. 
 
-Armazene esses números em uma lista. 
+ 
 
-Ao final, exiba: 
+ 
 
-A lista completa.  
+ 
 
-A soma dos números digitados.
+Classe com lista interna 
+
+Enunciado: 
+Classe Agenda que guarda uma lista de contatos. 
+
+ 
+
+ 
+
+ 
+
+Classe com contador de objetos 
+
+Enunciado: 
+Conte quantos objetos foram criados. 
+
+ 
