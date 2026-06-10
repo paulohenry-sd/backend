@@ -1,4 +1,7 @@
-import subprocess
+#import subprocess
+
+import os
+
 #arquivo = open("app\desafios\exemplos\dados.txt", "r")
 #conteudo = arquivo.read()
 #print(conteudo)
@@ -21,4 +24,5 @@ with open("app\desafios\exemplos\dados.txt", "a") as arquivo:
 
 
 #abrindo em uma da minha escolha
-subprocess.Popen(["code", "app\desafios\exemplos\dados.txt"])
+os.startfile("app\desafios\exemplos\dados.txt")
+#subprocess.Popen(["code", "app\desafios\exemplos\dados.txt"])
