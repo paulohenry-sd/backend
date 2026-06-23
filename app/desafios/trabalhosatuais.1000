@@ -1,39 +1,45 @@
 
+5. Função que soma valores até o usuário digitar 0 
+
+Use while + break. 
+
+6. Função que cria um menu simples 
+
+Use while para repetir e if para opções: 
+
+1 – Somar 
+2 – Subtrair 
+0 – Sair 
+
+7. Função que valida senha 
+
+Peça ao usuário uma senha. 
+Enquanto a senha for diferente de "python123", repita com while. 
+
+8. Função que conta números pares em um intervalo 
+
+Exemplo: contar_pares(1, 20) → quantos pares existem? 
 
  
 
-Classe Livro com status 
+9. Função que retorna uma tabuada 
 
-Enunciado: 
-Crie classe Livro com título e um atributo que diz se está disponível. 
-
- 
-
-Classe Veiculo e subclasses 
-
-Enunciado: 
-Crie duas subclasses Carro e Moto. 
+Exemplo: tabuada(7) 
+Use for para imprimir de 1 a 10. 
 
  
 
- 
+10. Função que retorna uma tabuada 
 
- 
+Exemplo: tabuada(7) 
+Use for para imprimir de 1 a 10. 
 
-Classe com lista interna 
+11. Função que simula três tentativas de login 
 
-Enunciado: 
-Classe Agenda que guarda uma lista de contatos. 
+Use while com contador + if. 
 
- 
+12. Função que imprime apenas números ímpares pulando múltiplos de 7 
 
- 
-
- 
-
-Classe com contador de objetos 
-
-Enunciado: 
-Conte quantos objetos foram criados. 
+Use for + continue. 
 
  
